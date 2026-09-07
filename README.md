@@ -68,9 +68,8 @@ $$
 ### 「 CODING BRO :D 」
 
 <a href="https://github.com/pzwt4cc">
-  <img src="https://github.com/pzwt4cc.png?size=50" width="50" height="50" style="border-radius: 50%;" alt="friend" />
+  <img src="https://github.com/pzwt4cc.png?size=50" width="64" height="64" style="border-radius: 50%;" alt="pzwt4cc" />
 </a>
-<br>
 </div>
 
 <br>
