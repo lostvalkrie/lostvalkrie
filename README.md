@@ -64,6 +64,16 @@ $$
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
+
+### 「 CODING BRO :D 」
+
+<a href="https://github.com/pzwt4cc">
+  <img src="https://github.com/pzwt4cc.png?size=50" width="50" height="50" style="border-radius: 50%;" alt="friend" />
+</a>
+<br>
 </div>
+
+<br>
+<br>
 
 $\color{#3FB950}\texttt{「\ COMING\ SOON\ 」}$
