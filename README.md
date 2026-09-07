@@ -57,7 +57,7 @@ $$
 ## 「 CONNECT 」
 
 <p>
-  <a href="https://t.me/lostvyxxг" target="_blank">
+  <a href="https://t.me/lostvyxx" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://discord.com/users/generalhg" target="_blank">
